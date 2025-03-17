@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="870bf925-a30e-403b-9115-2ce68727861f" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/sql/ddl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/sql/ddl.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/HelloSpringApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/HelloSpringApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/controller/MemberController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/controller/MemberForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/controller/MemberForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/repository/MemoryMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/repository/MemoryMemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/java/hello/hello_spring/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/java/hello/hello_spring/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/resources/static/hello-static.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/resources/static/hello-static.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/resources/templates/hello-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/resources/templates/hello-template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/resources/templates/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/resources/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/resources/templates/members/createMemberForm.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/resources/templates/members/createMemberForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/main/resources/templates/members/memberList.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/main/resources/templates/members/memberList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/test/java/hello/hello_spring/HelloSpringApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/test/java/hello/hello_spring/HelloSpringApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/test/java/hello/hello_spring/repository/MemoryMemberRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/test/java/hello/hello_spring/repository/MemoryMemberRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringTutorial/src/test/java/hello/hello_spring/service/MemberServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello_spring/src/test/java/hello/hello_spring/service/MemberServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;givenjun&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/givenjun/SpringTutorial.git&quot;,
+    &quot;accountId&quot;: &quot;896b93f9-5f5d-4372-a069-f1c99ae8ccb0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2uLMvs20kDhcDPtVjRE3pzLEy0q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.HelloSpringApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Dev/hello_spring",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Spring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Spring" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hello_spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.hello_spring.HelloSpringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="870bf925-a30e-403b-9115-2ce68727861f" name="변경" comment="" />
+      <created>1742023636241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742023636241</updated>
+      <workItem from="1742023637948" duration="140000" />
+      <workItem from="1742303361994" duration="76000" />
+      <workItem from="1742303475668" duration="312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
